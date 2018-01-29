@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimary_aplha_50">#8cFFC107</color>
+    <color name="red_aplha_50">#8cf44248</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#009688</color>
+    <color name="lightGreyDivider">#BDBDBD</color>
+    <color name="colorPrimaryLight">#FFEE58</color>
+</resources>
